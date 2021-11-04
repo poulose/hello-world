@@ -13,7 +13,15 @@ export default function Main({children}){
 
 			</Header>
 
-			{children}
+			<div>
+
+				{children}
+
+			</div>
+
+			<footer>
+
+			</footer>				
 			
 		</div>
 

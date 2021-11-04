@@ -8,7 +8,7 @@ export default function Header(){
 		<header>
 
 			<h1>
-					<Link to ="/"> Name of site </Link>
+					<Link to ="/portfolio"> Name of site </Link>
 			</h1>
 
 		</header>
