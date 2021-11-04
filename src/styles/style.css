@@ -1,0 +1,25 @@
+@font-face {
+
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.h2 {
+font-family: 'super_plumber_brothersregular';
+margin-top: 80px;
+color:#2A3640;
+}
+
+
+
+.h1 {
+	color:white;
+	font-weight:bold;
+}
+
+.container{
+	margin-top:80px;
+	margin-left:auto;
+	margin-right:auto;
+}
