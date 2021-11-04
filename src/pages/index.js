@@ -2,9 +2,6 @@ import React from "react"
 import Main from "../components/main"
 import style from "../styles/style.css"
 
- function Hello(props) {
-  return <div>Hello day {props.name} !</div>
-}
 
 export default function Home() {
 
@@ -36,6 +33,5 @@ export default function Home() {
 
       </Main>
 
-      //<Hello name=" The Gatsby"/>
     ) 
 }
